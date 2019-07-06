@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include artificial intelligence, data science, internet of things, blockchain.
-  matter.
+bio: My research interests include an interdisciplinary perspective about the effects of artificial intelligence, data science, internet of things, and blockchain on the digital economy.
 education:
   courses:
   - course: PhD in Web Science
@@ -26,7 +25,7 @@ name: Alan Ponce
 organizations:
 - name: University Autonomous of Cd. Juarez (UACJ)
   url: ""
-role: Professor of Software Development
+role: Professor of Computer Science
 social:
 - icon: envelope
   icon_pack: fas
@@ -46,6 +45,6 @@ user_groups:
 - Visitors
 ---
 
-Alan Ponce is a professor of software development at the University Autonomous of Cd. Juarez (UACJ). His research interests include artifical intelligence, data science, blockchain and internet of thigs.
+Alan Ponce is a professor of software development at the University Autonomous of Cd. Juarez (UACJ). His research interests include artificial intelligence, data science, internet of things and blockchain.
 
 Since I started my undergraduate modules in Computer Systems Management, I have been exposed to the benefits of combining interdisciplinary fields such as Management, Statistics, and Economics. Later, I gained experience applying this knowledge in public and private sectors in order to generate and use data as one of the main sources for the decision-making process.

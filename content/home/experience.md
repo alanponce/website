@@ -35,12 +35,17 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Data Analysis/Demostrator"
+  company = "University of Southampton"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  location = "Southampton, UK"
+  date_start = "2014-03-01"
+  date_end = "2017-07-31"
+  description = """Data analysis in projects such as EDSA, ODINE, Star4All.   
+  Responsibilities as demostrator include:
+  
+  * COMP1056: Web Design
+  * COMP2011: Software Engineering
+  * COMP6234: Data Visualisation 
+  """
 +++
