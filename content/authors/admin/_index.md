@@ -30,7 +30,7 @@ role: Professor of Software Development
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'alan.ponce@uacj.mx'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/alanponcerod
