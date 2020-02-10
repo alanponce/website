@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Professor and Researcher"
-  company = "UACJ"
+  company = "Autonomous University of Ciudad Juárez (UACJ)"
   company_url = ""
   location = "Cd. Juarez, Chihuahua, Mexico"
   date_start = "2018-08-01"

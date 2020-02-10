@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD in Web Science
     institution: University of Southampton
-    year: 2019
+    year: 2020
   - course: MSc in Web Science
     institution: University of Southampton
     year: 2014
@@ -21,9 +21,11 @@ interests:
 - Artificial Intelligence
 - Data Science
 - Blockchain
+- IoT
+- Digital Economy
 name: Alan Ponce
 organizations:
-- name: University Autonomous of Cd. Juarez (UACJ)
+- name: Autonomous University of Ciudad Juárez (UACJ)
   url: ""
 role: Professor of Computer Science
 social:
