@@ -11,7 +11,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Journal on Internet technologies and the information society, 1*(1)'
 publication_short: ""
 publication_types:
 - "2"
@@ -21,7 +21,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example journal article
+title: An Analysis of the Supply of Open Government Data
 url_code: ""
 url_dataset: ""
 url_pdf: https://www.mdpi.com/1999-5903/12/11/186/pdf
