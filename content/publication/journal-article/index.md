@@ -21,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags: data science; open government data; governance and social institutions; economic determinants of open data
+tags: data science open government data governance and social institutions economic determinants of open data
 - Source Themes
 title: An Analysis of the Supply of Open Government Data
 url_code: ""
