@@ -38,46 +38,6 @@ url_source: ""
 url_video: ""
 ---
 
----
-abstract: This is another research.
-
-keywords: "data science, open government data, governance and social institutions, economic determinants of open data"
-
-
-authors:
-- admin
-- Raul Alberto Ponce Rodriguez
-date: "2020-09-01T00:00:00Z"
-doi: "https://doi.org/10.3390/fi12110186"
-featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
-projects: []
-publication: '*Journal II* (1)'
-publication_short: ""
-publication_types:
-- "2"
-publishDate: "2020-10-29T00:00:00Z"
-slides: example
-summary: Interdisciplinary research combining data science and econometrics techniques.
-tags:
-- Data Science
-- Open Data
-- Econometrics
-- Source Themes
-title: Social Weights and the Regional Allocation of Inter-Governmental Transfers
-url_code: ""
-url_dataset: ""
-url_pdf: https://www.mdpi.com/1999-5903/12/11/186/pdf
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
----
-
 
 {{% alert note %}}
 Click the *Cite* button above to import publication metadata into their reference management software.
