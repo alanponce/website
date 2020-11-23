@@ -1,11 +1,5 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: An index of the release of open government data, published in 2016 by the Open Knowledge Foundation, shows that there is significant variability in the country’s supply of this public good. What explains these cross-country differences? Adopting an interdisciplinary approach based on data science and economic theory, we developed the following research workflow. First, we gather, clean, and merge different datasets released by institutions such as the Open Knowledge Foundation, World Bank, United Nations, World Economic Forum, Transparency International, Economist Intelligence Unit, and International Telecommunication Union. Then, we conduct feature extraction and variable selection founded on economic domain knowledge. Next, we perform several linear regression models, testing whether cross-country differences in the supply of open government data can be explained by differences in the country’s economic, social, and institutional structures. Our analysis provides evidence that the country’s civil liberties, government transparency, quality of democracy, efficiency of government intervention, economies of scale in the provision of public goods, and the size of the economy are statistically significant to explain the cross-country differences in the supply of open government data. Our analysis also suggests that political participation, sociodemographic characteristics, and demographic and global income distribution dummies do not help to explain the country’s supply of open government data. In summary, we show that cross-country differences in governance, social institutions, and the size of the economy can explain the global distribution of open government data.
 authors:
 - admin
 - Raul Alberto Ponce Rodriguez
