@@ -6,7 +6,7 @@ authors:
 - admin
 - Raul Alberto Ponce Rodriguez
 date: "2020-09-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.3390/fi12110186"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
@@ -21,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags:
+tags: data science; open government data; governance and social institutions; economic determinants of open data
 - Source Themes
 title: An Analysis of the Supply of Open Government Data
 url_code: ""
