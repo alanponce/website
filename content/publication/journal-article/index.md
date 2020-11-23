@@ -21,6 +21,9 @@ publishDate: "2020-10-29T00:00:00Z"
 slides: example
 summary: Interdisciplinary research combining data science and econometrics techniques.
 tags:
+- Data Science
+- Open Data
+- Econometrics
 - Source Themes
 title: An Analysis of the Supply of Open Government Data
 url_code: ""
