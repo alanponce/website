@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal on Internet technologies and the information society*(1)'
+publication: '*Journal on Internet technologies and the information society* (1)'
 publication_short: ""
 publication_types:
 - "2"
@@ -34,7 +34,7 @@ url_video: ""
 ---
 
 {{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to import publication metadata into their reference management software.
 {{% /alert %}}
 
 {{% alert note %}}
